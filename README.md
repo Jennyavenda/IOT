@@ -2,6 +2,11 @@
 # App and Network deployment to allow messaging in crisis
 
 Project about the deployment of a group of drones in which they connect to form a wifi Network that helps people connect with their Android devices and lets them send messages to ask for help or let emergency services about their situation.
+
+An example that the Mexican students can identify with is the  earthquake in September 19 of 2017, in which the signal was down and nobody was able communicate or send messages if they we in an emergency or safe. Even our school collapse, nowadays we have a new campus after 5 years.
+
+Another example in which Brazilians students can identify are the floodings that represent the 85% of catastrophes in Brasil. 
+
 The project is based in the MQTT (Mosquitto protocol) which allows an intermitent connection, which is helful during crisis where commercial or usual networks tend to be offline.
 
 ## Flooding crisis
